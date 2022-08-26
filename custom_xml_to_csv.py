@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import xml.etree.ElementTree as Xet
 import pandas as pd
 import sys
